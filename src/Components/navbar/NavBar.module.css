@@ -1,0 +1,25 @@
+.container{
+width: 100%;
+height: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #111;
+border-radius: 15px;
+}
+
+
+.logo{
+   color: aquamarine;
+   font-size: 38px;
+   font-weight: bold;
+}
+
+
+.links{
+   color: goldenrod;
+   font-size: 20px;
+   display: flex;
+   gap: 20px;
+   align-items: center;
+}
